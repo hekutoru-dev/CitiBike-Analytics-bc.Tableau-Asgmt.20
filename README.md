@@ -1,4 +1,4 @@
-# CitiBike_Analytics_Tableau
+# CitiBike-Analytics - Data Visualization - Tableau Assignmnet
 Show a report based on the Citi Bike Trip History Logs 
 
 Interactive Dashboard on Tableau Public
